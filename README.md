@@ -1,7 +1,7 @@
 # TP2 : Logique ternaire
 
 * logic.pdf : le sujet
-* main.cc : Un programme de test à modifier selon les besoins
+* logic.cc : Un programme de test à modifier selon les besoins
 * ExpLog.hh : Classe abstraite pour les expressions logiques
 
 Dès que vous créez un nouveau fichier ajouter le au dépôt 
