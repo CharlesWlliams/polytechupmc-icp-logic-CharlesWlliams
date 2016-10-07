@@ -12,3 +12,8 @@ A la fin de la séance votre projet doit étre mis dans le répo avec la command
 
 Vérifier que vous avez bien tout comité 
 ``git status``
+
+
+## Le lien :
+
+https://classroom.github.com/assignment-invitations/63e4d25765f329651319aab5c5fac0a4
